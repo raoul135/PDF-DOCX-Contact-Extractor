@@ -1,3 +1,5 @@
+![Project Banner](img.png)
+
 
 ## 🔍 Description
 A simple Python script that extracts structured contact information from `.pdf` and `.docx` files and saves the results to a CSV spreadsheet.
